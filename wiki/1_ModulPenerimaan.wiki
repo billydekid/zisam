@@ -4,10 +4,11 @@
 
 Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZISAM:
   # Pencatatan Data Muzaki
+  # Pencatatan Data Pembayaran ZIS
   # Pencatatan Data Mustahiq
 
 
-= Details =
+= Detail =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
