@@ -1,8 +1,10 @@
 #Modul Penerimaan.
 
-= Introduction =
+= Pengantar =
 
-Add your content here.
+Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZISAM:
+  # Pencatatan Data Muzaki
+  # Pencatatan Data Mustahiq
 
 
 = Details =
