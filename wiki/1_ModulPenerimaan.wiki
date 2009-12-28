@@ -30,4 +30,4 @@ Entri Data Pembayaran ZIS sebagai berikut:
   # Zakat Mal (Rp):
   # Infaq (Rp):
   # Shadaqah (Rp):
-  # Individu atau Keluarga: checkbox pilihan
+  # Individu atau Keluarga: check box pilihan
