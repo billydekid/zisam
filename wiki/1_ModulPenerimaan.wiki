@@ -36,10 +36,10 @@ Entri Data Pembayaran ZIS sebagai berikut:
 Entri Data Mustahiq sebagai berikut:
   # Nama Lengkap Penanggung Jawab:
   # Nama Lengkap Individu/Lembaga:
-  # Alamat Lengkap Lembaga:
+  # Alamat Lengkap:
   # Alamat Provinsi:
   # Alamat Kode Pos:
-  # No Telpon Lembaga:
+  # No Telpon:
   # No Mobile (HP) Penanggung Jawab:
   # Jumlah Mustahiq:
   # No Surat Pengajuan:
