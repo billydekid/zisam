@@ -31,3 +31,16 @@ Entri Data Pembayaran ZIS sebagai berikut:
   # Infaq (Rp):
   # Shadaqah (Rp):
   # Individu atau Keluarga: check box pilihan
+
+= 1.3 Pencatatan Data Mustahiq =
+Entri Data Mustahiq sebagai berikut:
+  # Nama Lengkap Penanggung Jawab:
+  # Nama Lengkap Lembaga:
+  # Alamat Lengkap Lembaga:
+  # Alamat Provinsi:
+  # Alamat Kode Pos:
+  # No Telpon Lembaga:
+  # No Mobile (HP) Penanggung Jawab:
+  # Jumlah Mustahiq:
+  # No Surat Pengajuan:
+  # Individu atau Lembaga: check box pilihan
