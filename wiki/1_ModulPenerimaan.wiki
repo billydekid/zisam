@@ -3,7 +3,7 @@
 
 = Pengantar =
 
-Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZISAM:
+Adalah modul yang berfungsi untuk melakukan pencatatan 3 input utama aplikasi ZISAM:
   # Pencatatan Data Muzzaki
   # Pencatatan Data Pembayaran ZIS
   # Pencatatan Data Mustahiq
