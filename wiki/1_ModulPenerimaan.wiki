@@ -35,7 +35,7 @@ Entri Data Pembayaran ZIS sebagai berikut:
 = 1.3 Pencatatan Data Mustahiq =
 Entri Data Mustahiq sebagai berikut:
   # Nama Lengkap Penanggung Jawab:
-  # Nama Lengkap Lembaga:
+  # Nama Lengkap Individu/Lembaga:
   # Alamat Lengkap Lembaga:
   # Alamat Provinsi:
   # Alamat Kode Pos:
