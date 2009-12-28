@@ -1,11 +1,23 @@
 #summary Modul Penerimaan ZISAM
+#labels Phase-Design
 
 = Pengantar =
 
 Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZISAM:
-  # Pencatatan Data Muzaki
+  # Pencatatan Data Muzzaki
   # Pencatatan Data Pembayaran ZIS
   # Pencatatan Data Mustahiq
 
 
 = 1.1 Pencatatan Data Muzaki =
+Entri Data Muzzaki sebagai berikut:
+  # Muzaki ID: unik dan dibuat oleh system
+  # Nama Kepala Keluarga: kepala keluarga atau nama diri untuk individu
+  # Alamat Rumah - Jalan & Nomor Rumah:
+  # Alamat Rumah - RT/RW:
+  # Alamat Rumah - Kota:
+  # Alamat Rumah - Provinsi:
+  # Alamat Rumah - Kode Pos:
+  # No Telpon Rumah:
+  # No Telpon Mobile (HP):
+  #
