@@ -11,7 +11,7 @@ Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZI
 
 = 1.1 Pencatatan Data Muzzaki =
 Entri Data Muzzaki sebagai berikut:
-  # Muzaki ID: unik dan dibuat oleh system
+  # Muzzaki ID: unik dan dibuat oleh system
   # Nama Kepala Keluarga: kepala keluarga atau nama diri untuk individu
   # Alamat Rumah - Jalan & Nomor Rumah:
   # Alamat Rumah - RT/RW:
@@ -21,3 +21,13 @@ Entri Data Muzzaki sebagai berikut:
   # No Telpon Rumah:
   # No Telpon Mobile (HP):
   # Nama anggota keluarga - 1 s/d n: untuk data zakat fitrah
+
+= 1.2 Pencatatan Data Pembayaran ZIS =
+Entri Data Pembayaran ZIS sebagai berikut:
+  # Muzzaki ID: lookup dari database muzzaki
+  # Zakat Fitrah Beras (l/kg):
+  # Zakat Fitrah Uang (Rp):
+  # Zakat Mal (Rp):
+  # Infaq (Rp):
+  # Shadaqah (Rp):
+  # Individu atau Keluarga: checkbox pilihan
