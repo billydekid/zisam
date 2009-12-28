@@ -8,9 +8,4 @@ Adalah modul yang berfungsi untuk melakukan pencatatan 2 input utama aplikasi ZI
   # Pencatatan Data Mustahiq
 
 
-= Detail =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= 1.1 Pencatatan Data Muzaki =
