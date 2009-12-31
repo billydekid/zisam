@@ -1,0 +1,15 @@
+#summary Modul Pengeluaran ZISAM.
+#labels Featured
+
+= Pengantar =
+
+Adalah modul yang melakukan pencatatan atas segala pengeluaran ZIS yang diterima Amil.
+Secara garis besar pengeluaran dibagi menjadi 2:
+  # Pengeluaran ke Mustahiq
+  # Pengeluaran (biaya) Operasional
+
+
+= 2.1 Pengeluaran Mustahiq =
+
+
+= 2.2 Pengeluaran Operasional =
