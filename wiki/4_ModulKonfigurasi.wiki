@@ -23,6 +23,7 @@ Adalah data personal penerima zakat (amil) dan posisi/struktur dari amil, yang t
    * Alamat
    * No Telpon/HP
    * Tempat/Tanggal Lahir
+
   # Struktur Amil (Panitia ZIS)
    * Ketua
    * Sekretaris
