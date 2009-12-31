@@ -1,5 +1,5 @@
 #summary Modul Penerimaan ZISAM
-#labels Phase-Design
+#labels Phase-Design,Featured
 
 = Pengantar =
 
