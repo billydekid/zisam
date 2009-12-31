@@ -4,8 +4,9 @@
 = Pengantar =
 
 Adalah modul yang melakukan pencatatan atas segala pengeluaran ZIS yang diterima Amil.
-Secara garis besar pengeluaran dibagi menjadi 2:
-  # Pengeluaran ke Mustahiq
+Secara garis besar pengeluaran dibagi menjadi 3:
+  # Pengeluaran ke Mustahiq (penerima zakat)
+  # Pengeluaran ke Penerima Infaq/Shadaqah
   # Pengeluaran (biaya) Operasional
 
 
