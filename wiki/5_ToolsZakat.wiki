@@ -1,0 +1,9 @@
+#summary Modul aplikasi perhitungan zakat (kalkulator zakat).
+#labels Featured,Phase-Design
+
+= Pengantar =
+
+Adalah sub-aplikasi ZISAM yang berguna untuk melakukan perhitungan atas:
+  # Zakat Maal
+  # Zakat Profesi/Penghasilan
+  # Penghitungan Biaya Fidyah
