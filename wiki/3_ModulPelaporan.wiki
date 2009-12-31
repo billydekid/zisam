@@ -1,0 +1,27 @@
+#summary Modul Pelaporan ZISAM.
+#labels Featured,Phase-Design
+
+= Pengantar =
+
+Adalah modul pelaporan (Reporting) aplikasi ZISAM.
+Terdapat 2 laporan utama:
+  # Laporan Penerimaan
+  # Laporan Pengeluaran
+
+
+= 3.1 Laporan Penerimaan =
+Terdiri dari:
+  # Laporan Penerimaan Harian
+  # Laporan Penerimaan Akumulatif
+  # Laporan Penerimaan Per Amil
+  # Laporan Penerimaan Total
+  # Laporan Penerimaan Operasional
+
+= 3.2 Laporan Pengeluaran =
+Terdiri dari:
+  # Warga (RT/RW)
+  # Yayasan / Lembaga
+  # Amil
+  # 8 Asnaf
+  # Penerima Infaq / Shadaqah
+  # Dana Operasional
