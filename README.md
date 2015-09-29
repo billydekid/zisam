@@ -43,6 +43,13 @@ Untuk bergabung layangkan e-mail ke bwidyasanyata AT gmail.com.
 - Bahasa pemrograman yang digunakan adalah PHP dengan dukungan PHP Framework.
 - Database menggunakan MySQL. 
 
+## Groups
+
+- [Forum ZISAM](http://groups.google.com/group/zisam)
+- [Forum Pengembang ZISAM](http://groups.google.com/group/zisam-dev)
+
+
 ## Dokumen
 
 Dokumen Pengembangan aplikasi dapat dibaca di halaman Wiki. 
+
